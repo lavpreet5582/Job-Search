@@ -1,0 +1,24 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavpreet5582/Job-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavpreet5582/Job-Search/issues"
+  },
+  "homepage": "https://github.com/lavpreet5582/Job-Search#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
